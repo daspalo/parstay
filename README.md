@@ -23,6 +23,6 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<"https://giphy.com/embed/j3hZYeeA2bD7jZxABR"/>
-<"https://giphy.com/embed/Y0sRgnobdH4696yVgx"/>
-"https://giphy.com/embed/KZ4oTcj6KGjl4oJIDD"
+< "https://giphy.com/embed/j3hZYeeA2bD7jZxABR" />
+< "https://giphy.com/embed/Y0sRgnobdH4696yVgx" />
+< "https://giphy.com/embed/KZ4oTcj6KGjl4oJIDD" />
