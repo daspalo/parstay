@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (5.0.5)
+  - AlamofireImage (4.0.3):
+    - Alamofire (< 6.0.0, >= 5.0.2)
+  - Bolts/Tasks (1.9.1)
+  - Parse (1.18.0):
+    - Parse/Core (= 1.18.0)
+  - Parse/Core (1.18.0):
+    - Bolts/Tasks (= 1.9.1)
+
+DEPENDENCIES:
+  - AlamofireImage
+  - Parse
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireImage
+    - Bolts
+    - Parse
+
+SPEC CHECKSUMS:
+  Alamofire: df2f8f826963b08b9a870791ad48e07a10090b2e
+  AlamofireImage: 3d1a2010519e58675318735580eb856e88840ff7
+  Bolts: 8c1e8aab2f603387b8b9924f57d1d64f43d3ffdc
+  Parse: 79bdda34fdb7eb2a707a43a951c8aae236cb3e34
+
+PODFILE CHECKSUM: a9247223eeb0d1729ae5fe7455b7e4fb00946330
+
+COCOAPODS: 1.9.1
