@@ -23,6 +23,6 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<iframe src="https://giphy.com/embed/j3hZYeeA2bD7jZxABR" width="239" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/j3hZYeeA2bD7jZxABR">via GIPHY</a></p>
-<iframe src="https://giphy.com/embed/Y0sRgnobdH4696yVgx" width="239" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Y0sRgnobdH4696yVgx">via GIPHY</a></p>
-<iframe src="https://giphy.com/embed/KZ4oTcj6KGjl4oJIDD" width="239" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/KZ4oTcj6KGjl4oJIDD">via GIPHY</a></p>
+<"https://giphy.com/embed/j3hZYeeA2bD7jZxABR">
+<"https://giphy.com/embed/Y0sRgnobdH4696yVgx">
+<"https://giphy.com/embed/KZ4oTcj6KGjl4oJIDD">
