@@ -8,6 +8,7 @@
 
 import UIKit
 import Parse
+import AlamofireImage
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
@@ -19,8 +20,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         Parse.initialize(
             with: ParseClientConfiguration(block: { (configuration: ParseMutableClientConfiguration) -> Void in
                 configuration.applicationId = "myAppId"
-                configuration.server = "https://warm-beach-82637.herokuapp.com/parse"
-            })
+                configuration.server = "https://warm-beach-82637.herokuapp.com/parse"})
         )
         
         return true
@@ -41,5 +41,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
 
 
-}
 
+
+}
